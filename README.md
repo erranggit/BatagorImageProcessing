@@ -1,7 +1,3 @@
-Sure! Below is a README file that provides an overview of your code along with instructions on how to use it:
-
----
-
 # Image Classification with TensorFlow
 
 ## Overview
